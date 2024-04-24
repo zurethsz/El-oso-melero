@@ -1,0 +1,76 @@
+#box {
+  display: flex;
+  padding-bottom: 20px;
+}
+
+
+#osoMeleroArbol {
+  width: 500px;
+  float: left;
+  border-radius: 20%;
+}
+
+#infoGeneral {
+  flex: 1;
+  padding: 0 20px;
+
+}
+
+
+#caracteristicas {
+  background-color: #AB7C4E;
+  border-radius: 2%;
+  width: 400px;
+  height: 439px;
+  display: inline-block;
+  text-align: center;
+
+}
+
+table {
+  border-radius: 10%;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border-radius: 3%;
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #ff8750;
+}
+
+#meleroSacandoLaLengua {
+  padding-top: 20px;
+  float: right;
+  width: 300px;
+  border-top-left-radius: 90%;
+  border-top-right-radius: 10%;
+  border-bottom-left-radius: 20%;
+  border-bottom-right-radius: 10%;
+}
+
+h3 {
+  text-align: left;
+}
+#familiaMeleros{
+  float: left;
+  border-radius: 80%;
+  width: 200px;
+}
+p {
+  text-align: center;
+}
+
+#imagenPequeña {
+  margin-top: -15px;
+  float: left;
+  width: 250px;
+  border-radius: 5%;
+
+}

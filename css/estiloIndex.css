@@ -1,0 +1,66 @@
+#box {
+  display: flex;
+  padding-bottom: 20px;
+}
+
+#osoMeleroPerfil {
+  width: 200px;
+}
+
+#infoGeneral {
+  flex: 1;
+  padding: 0 20px;
+}
+#enlaces {
+  background-color: #AB7C4E;
+  border-radius: 10%;
+  width: 400px;
+  height: 220px;
+  text-align: center;
+}
+
+#enlaces ul {
+  
+  list-style-type: none;
+  padding: 0;
+  padding-left: 15px;
+}
+
+#enlaces li {
+  
+  display: flex; 
+  align-items: center; 
+  margin-bottom: 10px;
+  padding: 2px 2px;
+}
+
+.logo {
+  float: left;
+  width: 18px;
+  margin-right: 10px;
+}
+
+#enlaces li p {
+  width: 200px;
+  margin: 0; 
+}
+
+#imagenGrande{
+  padding-top: 20px;
+  float: right;
+  width: 400px;
+  border-radius: 10%;
+}
+h3{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+#imagenPequeña{
+  margin-top: -15px;
+  float: left;
+  width: 250px;
+  border-radius: 5%;
+  
+}
